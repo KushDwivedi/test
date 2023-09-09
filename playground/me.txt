@@ -1,0 +1,5 @@
+{{#user}}
+Name: Kush Dwivedi
+Skills: HTML, CSS, JS, Next.js
+Email: kushdwivedi89@gmail.com
+{{/user}}
